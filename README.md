@@ -1,3 +1,13 @@
+This app contains the manifest.yml to deploy the most barebones create-react-app on Cloud Foundry following this guide: 
+
+## Instructions
+1. Clone this repo 
+2. Download the latest version of Node
+3. Run the command "npm run build"
+4. Follow the instructions at https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry/introduction
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
